@@ -1,2 +1,4 @@
 # CubariProtuguese
-Projeto para tornar o Cubari acessível as scans brasileiras
+Disclaimer: Repositorio com o intuito de tornar o cubari acessivel e pratico a todos os brasileiros
+
+#O que é o Cubari? 
