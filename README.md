@@ -37,6 +37,8 @@
 * OBS: Para o campo <id imgur>, vá para o imgur e pegue o Imgur ID (a cadeia alfanumérica após imgur.com/a/ na url) do capítulo que você deseja hospedar e cole-o. Uma vez feito isso, clique em "commit new file".
 * Em seguida, volte para o arquivo, clique em "raw" e depois copie a url. Vá até [git.io](https://git.io/), cole a url e encurte-a. Copie a url encurtada e cole-a na caixa de busca do [Cubari](https://cubari.moe/). Esta será a url permanente para a página Cubari criada (desde que você não mude o nome do arquivo no github)
 * OBS: Se você deseja uma url personalizada você deve pegar a url do aquivo (Com o /raw), em seguida edite esté comando "curl https://git.io/ -i -F "url=link do github" -F "code=url personalizada" (Após isso copie e cole no terminal/cmd e aperte enter) (Você deve mudar o nome do arquivo no github, para poder gerar um novo link. Nota adicional: Apenas faça isso se você ja encurtou o link no git.io) 
+<a href="https://imgur.com/BxBUhin"><img src="https://i.imgur.com/BxBUhin.png" title="source: imgur.com" /></a>
+Ps. Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (Dica: faça seus testes com uma url aleatória, do git.io, e so depois use uma personalizada)
 
  ?Adicioando novos capítulos
 * Volte para o código github que você escreveu anteriormente e edite-o (ícone do lápis).
