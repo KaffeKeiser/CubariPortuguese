@@ -36,14 +36,14 @@
 * Em seguida, preencha todos os campos que os <> circundam (Nota adicional: Você também deve remover as chaves "<" e ">"). 
 * OBS: Para o campo <id imgur>, vá para o imgur e pegue o Imgur ID (a cadeia alfanumérica após imgur.com/a/ na url) do capítulo que você deseja hospedar e cole-o. Uma vez feito isso, clique em "commit new file".
 * Em seguida, volte para o arquivo, clique em "raw" e depois copie a url. Vá até [git.io](https://git.io/), cole a url e encurte-a. Copie a url encurtada e cole-a na caixa de busca do [Cubari](https://cubari.moe/). Esta será a url permanente para a página Cubari criada (desde que você não mude o nome do arquivo no github)
-* OBS: Se você deseja uma url personalizada você deve pegar a url do aquivo (Com o /raw), em seguida edite esté comando "curl https://git.io/ -i -F "url=<link do github>" -F "code=<url personalizada>" (Após isso copie e cole no terminal/cmd e aperte enter) (Você deve mudar o nome do arquivo no github, para poder gerar um novo link. Nota adicional: Apenas faça isso se você ja encurtou o link no git.io) 
+* OBS: Se você deseja uma url personalizada você deve pegar a url do aquivo (Com o /raw), em seguida edite esté comando "curl https://git.io/ -i -F "url=link do github" -F "code=url personalizada" (Após isso copie e cole no terminal/cmd e aperte enter) (Você deve mudar o nome do arquivo no github, para poder gerar um novo link. Nota adicional: Apenas faça isso se você ja encurtou o link no git.io) 
 
  ?Adicioando novos capítulos
 * Volte para o código github que você escreveu anteriormente e edite-o (ícone do lápis).
 * Aperte shift+enter após <"chapters": {>
 * Copie e cole o texto do capítulo anterior e faça as edições necessárias 
 * Uma vez terminados todos os capítulos, clique em "commit changes".
-* OBS: Se você quiser adicionar informações sobre a hora do upload, substitua "<hora que foi upado>" por um unixtimestamp do [UnixTimeStamp](https://www.unixtimestamp.com/)
+* OBS: Se você quiser adicionar informações sobre a hora do upload, substitua "hora que foi upado" por um unixtimestamp do [UnixTimeStamp](https://www.unixtimestamp.com/)
 
 ?Adicionais
 * Caso precise de ajuda visite: https://discord.gg/dgA3zdkfSX
