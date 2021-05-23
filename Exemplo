@@ -1,0 +1,25 @@
+{
+  "title": "<nome da obra>",
+  "description": "<Sinopse>",
+  "artist": "<quem desenhou>",
+  "author": "<quem escreveu>",
+  "cover": "<linkdacapa.jpg>",
+  "chapters": {
+    "<nº do cap>": {
+      "title": "<nome do cap>",
+      "volume": "<nº do volume>",
+      "groups": {
+        "<grupos>": "/proxy/api/imgur/chapter/<id imgur>/"
+      },
+      "last_updated": "<hora que foi upado>"
+    },
+    "<nº do cap>": {
+      "title": "<nome do cap>",
+      "volume": "<nº do volume>",
+      "groups": {
+        "<grupos>": "/proxy/api/imgur/chapter/<id imgur>/"
+      },
+      "last_updated": "<hora que foi upado>"
+    }
+  }
+}
