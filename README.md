@@ -46,10 +46,11 @@ Ps. Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (Dica
  ?Adicioando novos capítulos
 * Volte para o código github que você escreveu anteriormente e edite-o (ícone do lápis).
 * Copie o texto do capítulo anterior
+
 <a href="https://imgur.com/5XSheby"><img src="https://i.imgur.com/5XSheby.png" title="source: imgur.com" /></a>
-* Cole abaixo do ultimo capitulo adicionado
+* Cole abaixo do ultimo capitulo adicionado (Não se esqueça de adicionar a virgula (Vermelho) e mudar as inforações caso necessário (Verde))
+
 <a href="https://imgur.com/uOCyOqR"><img src="https://i.imgur.com/uOCyOqR.png" title="source: imgur.com" /></a>
-Não se esqueça de adicionar a vergula (Vermelho) e mudar as inforações caso necessário (Verde)
 * Uma vez terminados todos os capítulos, clique em "commit changes".
 * OBS: Se você quiser adicionar informações sobre a hora do upload, substitua "hora que foi upado" por um unixtimestamp do [UnixTimeStamp](https://www.unixtimestamp.com/)
 
