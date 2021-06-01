@@ -1,6 +1,6 @@
 # Disclaimers: 
 * Repositório com o intuito de tornar o cubari acessível e prático a todos
-* Fonte: [Reddit (Eng)](https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_with_guyamoe/) + Meus conhecimentos
+* Fontes: [Como o cubari funciona (Eng)](https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_with_guyamoe/); [Sites compativies com a api do mangadex (Eng)](https://www.reddit.com/r/mangadex/comments/nn584s/list_of_appssites_that_currently_use_the_mangadex/) e meus conhecimentos
 
 # O que é o Cubari?
 * Link: https://cubari.moe/
@@ -22,7 +22,7 @@
 ?Passos iniciais
 * Crie uma conta no [Imgur](https://imgur.com/) e no [GitHub](https://github.com/)
 
-?Upando para o Imgur (Suporta GoogleDirve e AmazonServers também)
+?Upando para o Imgur (Suporta GoogleDirve, AmazonServers e Managdex também)
 * Coloque o capítulo em uma pasta qualuqer (Tenha certeza que os arquivos estão na ordem correta)
 * Vá para o [Imgur](https://imgur.com/) e clique no botão [NewPost](https://imgur.com/upload). Em seguida, clique no botão "Choose Photo/Video" e navegue até a pasta em que suas imagens estão.
 * Uma janela do explorador de arquivos deve ter aparecido. Selecione a última imagem do capítulo, segure shift e clique na primeira imagem do capítulo
