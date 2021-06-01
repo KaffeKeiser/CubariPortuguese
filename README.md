@@ -22,7 +22,7 @@
 ?Passos iniciais
 * Crie uma conta no [Imgur](https://imgur.com/) e no [GitHub](https://github.com/)
 
-?Upando para o Imgur (Suporta GoogleDirve, AmazonServers e Managdex também)
+?Upando para o Imgur (Suporta GoogleDirve, AmazonServers e Mangadex também)
 * Coloque o capítulo em uma pasta qualuqer (Tenha certeza que os arquivos estão na ordem correta)
 * Vá para o [Imgur](https://imgur.com/) e clique no botão [NewPost](https://imgur.com/upload). Em seguida, clique no botão "Choose Photo/Video" e navegue até a pasta em que suas imagens estão.
 * Uma janela do explorador de arquivos deve ter aparecido. Selecione a última imagem do capítulo, segure shift e clique na primeira imagem do capítulo
