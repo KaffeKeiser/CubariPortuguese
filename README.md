@@ -56,4 +56,3 @@ Ps. Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (Dica
 
 ?Adicionais
 * Caso precise de ajuda visite: https://discord.gg/dgA3zdkfSX
-* Veja alguns exemplos funcionais em: https://github.com/SrW0nka/ScriptsCubari
