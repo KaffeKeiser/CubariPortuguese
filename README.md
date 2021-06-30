@@ -34,7 +34,7 @@ Nota: Utitlize um Desktop/Notebook
 * Uma janela do explorador de arquivos deve ter aparecido. Selecione a última imagem do capítulo, segure shift e clique na primeira imagem do capítulo
 * Clique em "abrir" e aguarde o upload dos arquivos (não saia da página, um CAPTCHA pode ser solicitado). 
 * Nomeie sua galeria (nome de sua preferência) e a publique como **Hidden/Privada**
-* Repita isso para todos os capítulos que desejar
+* Repita isso para todos os capítulos que desejar (cada capítulo deve ter sua propría galeria)
 
 **3 Configurando o GitHub**
 * Em seguida, vá para o github e pressione o botão verde "New" no canto superior esquerdo. Em seguida, nomeie o repositório e certifique-se de que seja público e crie o repositório (Nele você vai botar todas as suas páginas Cubari)
