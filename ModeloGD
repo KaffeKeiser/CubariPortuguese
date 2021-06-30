@@ -1,1 +1,37 @@
-
+{
+  "title": "<nome da obra>",
+  "description": "<Sinopse>",
+  "artist": "<quem desenhou>",
+  "author": "<quem escreveu>",
+  "cover": "<linkdacapa.jpg>",
+  "chapters": {
+    "<nº do cap>": {
+      "title": "<nome do cap>",
+      "volume": "<nº do volume>",
+      "groups": {
+        "<grupos>": "https://drive.google.com/uc?id=15lutDLOhO-u2ZM9NBH1YPZ6ctr3L4Qwq",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>"
+      },
+      "last_updated": "<hora que foi upado>"
+    },
+    "<nº do cap>": {
+      "title": "<nome do cap>",
+      "volume": "<nº do volume>",
+      "groups": {
+        "<grupos>": "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>",
+        "https://drive.google.com/uc?id=<id gd>"
+      },
+      "last_updated": "<hora que foi upado>"
+    }
+  }
+}
