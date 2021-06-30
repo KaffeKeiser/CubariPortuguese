@@ -63,8 +63,11 @@ Nota²: Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (
 * Volte para o arquivo github que você criou anteriormente e edite-o (ícone do lápis).
 * Copie o texto do capítulo anterior
 
-<a href="https://imgur.com/5XSheby"><img src="https://i.imgur.com/5XSheby.png" title="source: imgur.com" /></a>
-* Cole abaixo do ultimo capitulo adicionado (Não se esqueça de adicionar a virgula (Vermelho) e mudar as inforações caso necessário (Verde))
+<a href="https://imgur.com/sfvjkUj"><img src="https://i.imgur.com/sfvjkUj.png" title="source: imgur.com" /></a>
+
+* Adicione uma **,** na chave abaixo de **"last_updated"**
+* Aperte **Shift+Enter** e cole o que você copiou 
+* Altere as informações necessárias 
 
 <a href="https://imgur.com/uOCyOqR"><img src="https://i.imgur.com/uOCyOqR.png" title="source: imgur.com" /></a>
 * Uma vez terminados todos os capítulos, clique em "commit changes".
