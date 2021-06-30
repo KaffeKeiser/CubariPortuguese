@@ -21,7 +21,9 @@
 
 # Como criar uma página no Cubari? 
 
-Nota: Usarei o [Imgur](https://imgur.com/) de exemplo (é o mais fácil de trabalhar), contudo pode ser feito com qualquer dos sites mencionados mais acima.
+Nota¹: Usarei o [Imgur](https://imgur.com/) de exemplo (é o mais fácil de trabalhar), contudo pode ser feito com qualquer dos sites mencionados mais acima.
+
+Nota²: * Visite um exemplo funcional [aqui](https://cubari.moe/read/gist/GatinhosExtremamenteFofosPtBR/). (Códidgo GitHub do exemplo: [Gatinhos extremamentes fofos](https://github.com/SrW0nka/CubariPortuguese/blob/main/GatinhosExtremamenteFofosPtBR)).
 
 **1 Passos inicias**
 * Crie uma conta no [GitHub](https://github.com/) (Obrigatório para: Imgur, GD e AWS) e no [Imgur](https://imgur.com/).
@@ -78,7 +80,6 @@ Nota²: Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria (u
 * Uma vez terminadas todas as alterações, clique em **commit changes**.
 
 **6 Adicionais**
-* Visite um exemplo funcional [aqui](https://cubari.moe/read/gist/GatinhosExtremamenteFofosPtBR/). (Códidgo GitHub do exemplo: [Gatinhos extremamentes fofos](https://github.com/SrW0nka/CubariPortuguese/blob/main/GatinhosExtremamenteFofosPtBR)).
 * Para os sites: [Mangadex](https://mangadex.org/), [Mangasee](https://mangasee123.com/) e [NHentai](https://nhentai.net/)  basta apenas pegar o ID das obras (encontre ele no link da mesmas) e colar na caixa de busca do cubari. 
 * Para os sites: [GoogleDrive](https://www.google.com/intl/pt/drive/) e [AmazomWebServices](https://aws.amazon.com/pt/) o processo é o mesmo que o do [Imgur](https://imgur.com/), contudo algumas partes tem que ser modificadas (Visite: [ModeloGD](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloGD) ou [ModeloAWS](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloAWS)).
 * Caso precise de ajuda visite o [meu servidor do discord](https://discord.gg/qdZ7tbJxjV)
