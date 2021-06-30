@@ -6,18 +6,18 @@
   "cover": "<linkdacapa.jpg>",
   "chapters": {
     "1": {
-      "title": "Pack de gatinhos 1",
+      "title": "Pack de gatinhos fofos",
       "volume": "1",
       "groups": {
-        "SrWonka#0451": "/proxy/api/imgur/chapter/<id imgur>/"
+        "SrWonka#0451": "/proxy/api/imgur/chapter/a1H18/"
       },
       "last_updated": "1625055066"
     },
     "2": {
-      "title": "Pack de gatinhos 2",
+      "title": "Pack de gatinhos líquidos",
       "volume": "1",
       "groups": {
-        "SrWonka#0451": "/proxy/api/imgur/chapter/<id imgur>/"
+        "SrWonka#0451": "/proxy/api/imgur/chapter/8DqtFI3/"
       },
       "last_updated": "1625055066"
     }
