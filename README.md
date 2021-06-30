@@ -1,22 +1,23 @@
 # Disclaimers: 
-* Repositório com o intuito de tornar o cubari acessível e prático a todos
-* Fontes: [Como o cubari funciona (Eng)](https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_with_guyamoe/); [Sites compativies com a api do mangadex (Eng)](https://www.reddit.com/r/mangadex/comments/nn584s/list_of_appssites_that_currently_use_the_mangadex/) e meus conhecimentos
+* Não tenho ligação alguma com os responsáveis pelo site.
+* Esta documentação tem o intuito de tornar o cubari mais acessível e prático.
+* Fontes: [Como hospedar uma serie do imgur com o cubari](https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_with_guyamoe/); [Lista de sites/apps que usam a API do Mangadex](https://www.reddit.com/r/mangadex/comments/nn584s/list_of_appssites_that_currently_use_the_mangadex/); muitos usuarios que me ajudaram a entender melhor como tudo é feito (menção honrossa) e meus conhecimentos próprios.
 
-# O que é o Cubari?
-* Link: https://cubari.moe/
-* O Cubari é um proxy de imagens. Ele pega imagens de outros sites e mostra elas em uma orientação melhor para ler mangás, esse é Cubari.
-* Mais detalhes nas páginas da [Wiki](https://github.com/SrW0nka/CubariPortuguese/wiki) 
+# [O que é o Cubari?](https://cubari.moe/)
+* É um site que espelha imagens de outros sites e as exibe em um formato adequado para ler mangás, com uma interface personalizada. 
++ Sites compativeis: [Imgur](https://imgur.com/), [GoogleDrive](https://www.google.com/intl/pt/drive/), [AmazomWebServices](https://aws.amazon.com/pt/), [Mangadex](https://mangadex.org/), [Mangasee](https://mangasee123.com/) e [NHentai](https://nhentai.net/).
+* Você encontrará alguns textos em inglês nas páginas do site, esles estão traduzidos [aqui](https://github.com/SrW0nka/CubariPortuguese/wiki). 
 
 
 # Por quê usar o Cubari? 
-* Independência. Com o Cubari você não fica refém dos grandes sites, faça edições, modificações e ajustes nas imagens a qualquer hora
-* Velocidade
-* Não necessita de um site/servidor dedicado 
-* Processo totalmente gratuito
-* Sincronização entre dispositivos (Utilizando o [5apps](https://5apps.com/storage))
-* Extensão no tachiyomi, com suporte oficial ([Tachiyomi Cubari](https://tachiyomi.org/extensions/#all.cubari)) 
-* Livre de anúncios
-* Projeto de código aberto
+* Independência. Com o Cubari você não fica refém dos grandes sites, faça edições, modificações e ajustes nas imagens a qualquer hora.
+* Velocidade.
+* Não necessita de um site/servidor dedicado. 
+* Processo totalmente gratuito.
+* Sincronização entre dispositivos (Utilizando o [5apps](https://5apps.com/storage), mais detalhes [aqui](https://github.com/SrW0nka/CubariPortuguese/wiki/7-Sincroniza%C3%A7%C3%A3o-de-dados)).
+* [Extensão no tachiyomi](https://tachiyomi.org/extensions/#all.cubari), com suporte oficial dos criadores. 
+* Livre de anúncios.
+* Projeto de código aberto.
 
 # Como criar uma página no Cubari? 
 ?Passos iniciais
