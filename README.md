@@ -23,7 +23,7 @@
 
 Nota¹: Usarei o [Imgur](https://imgur.com/) de exemplo (é o mais fácil de trabalhar), contudo pode ser feito com qualquer dos sites mencionados mais acima.
 
-Nota²: * Visite um exemplo funcional [aqui](https://cubari.moe/read/gist/GatinhosExtremamenteFofosPtBR/). (Códidgo GitHub do exemplo: [Gatinhos extremamentes fofos](https://github.com/SrW0nka/CubariPortuguese/blob/main/GatinhosExtremamenteFofosPtBR)).
+Nota²: * Visite um exemplo funcional [aqui](https://cubari.moe/read/gist/GatinhosExtremamenteFofosPtBR/). (Códidgo do exemplo: [Gatinhos extremamentes fofos](https://github.com/SrW0nka/CubariPortuguese/blob/main/GatinhosExtremamenteFofosPtBR)).
 
 **1 Passos inicias**
 * Crie uma conta no [GitHub](https://github.com/) (Obrigatório para: Imgur, GD e AWS) e no [Imgur](https://imgur.com/).
