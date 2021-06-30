@@ -41,6 +41,8 @@ Nota²: Se você ja tem os álbuns imgur que quer utilizar pule para o passo 3
 * Repita isso para todos os capítulos que desejar (cada capítulo deve ter seu próprio álbum).
 
 **3 Configurando o GitHub + 4 Criando a página da obra**
+
+Nota¹: Se você ja possui um repositório e deseja criar outra página pule o passo imediatamente abaixo
 * Na [página inicial](https://github.com/) clicque em **[New](https://github.com/new)** (canto superior esquerdo), nomeie o repositório, certifique-se de que a opção **Public** esteja marcada e clique em **Create repository** (Se desejar marque a opção **Add a README file**).
 <a href="https://imgur.com/GL7whho"><img src="https://i.imgur.com/GL7whho.png" title="source: imgur.com" /></a>
 * Clique em **Add File** e em **Create new file** na página principal do repositório. Dê ao arquivo o nome que você quiser, tenha certeza de que o nome seja algo que você não irá alterar (toda vez que você alterar o nome o link do cubari precisará ser refeito).
