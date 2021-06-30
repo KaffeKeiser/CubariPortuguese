@@ -49,7 +49,9 @@ Nota¹: Se você ja possui um repositório e deseja criar outra página pule o p
 * No página do **Create new file** cole o [ModeloIMGUR](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloIMGUR).
 * Preencha todos os campos que as setas **< e >** circundam com as informações que deseja (se lembre de removê-las).
 
-Nota¹: Para o campo **< id imgur >**, pegue o link imgur do álbum que deseja adicionar e selecione a cadeia alfanumérica após **imgur.com/a/** na url. 
+Nota¹: Para o campo **< id imgur >**, pegue o link imgur do álbum que deseja adicionar e em seguida copie e cole a cadeia alfanumérica após **imgur.com/a/** na url.
+
+Ex: https://imgur.com/a/< id imgur > 
 
 Nota²: Para o campo **< hora que foi upado >**, use o site [UnixTimeStamp](https://www.unixtimestamp.com/) e utilize o Unix Timestamps do horáro atual (você também pode pegar um Unix Timestamp de um dia anterior mais abaixo no mesmo site).
 
