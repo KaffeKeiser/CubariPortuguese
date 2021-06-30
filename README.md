@@ -20,19 +20,23 @@
 * Projeto de código aberto.
 
 # Como criar uma página no Cubari? 
-?Passos iniciais
-* Crie uma conta no [Imgur](https://imgur.com/) e no [GitHub](https://github.com/)
 
-?Upando para o Imgur (Suporta GoogleDirve, AmazonServers e Mangadex também)
+Nota: Usarei o [Imgur](https://imgur.com/) de exemplo (é o mais fácil de trabalhar), contudo pode ser feito com qualquer dos sites mencionados mais acima.
+
+**1 Passos inicias**
+* Crie uma conta no [GitHub](https://github.com/) (Obrigatório para: Imgur, GD e AWS) e no [Imgur](https://imgur.com/)
+
+**2 Upando para a nuvem**
+
+Nota: Utitlize um Desktop/Notebook
 * Coloque o capítulo em uma pasta qualuqer (Tenha certeza que os arquivos estão na ordem correta)
-* Vá para o [Imgur](https://imgur.com/) e clique no botão [NewPost](https://imgur.com/upload). Em seguida, clique no botão "Choose Photo/Video" e navegue até a pasta em que suas imagens estão.
+* Vá para o [Imgur](https://imgur.com/) e clique no botão [NewPost](https://imgur.com/upload). Em seguida, clique no botão **Choose Photo/Video** e navegue até a pasta em que suas imagens estão.
 * Uma janela do explorador de arquivos deve ter aparecido. Selecione a última imagem do capítulo, segure shift e clique na primeira imagem do capítulo
-* Clique em "abrir" e aguarde o upload dos arquivos. Depois de fazer isso, nomeie sua galeria (Você pode escolher entre "community" (Público) ou "hidden" (Privado), Nota adicional: Recomedo "hidden")
+* Clique em "abrir" e aguarde o upload dos arquivos (não saia da página, um CAPTCHA pode ser solicitado). 
+* Nomeie sua galeria (nome de sua preferência) e a publique como **Hidden/Privada**
 * Repita isso para todos os capítulos que desejar
-<a href="https://imgur.com/rFYxonU"><img src="https://i.imgur.com/rFYxonU.png" title="source: imgur.com" /></a>
-Ps. No fim você vai ter algo como isso (Nota adicional: Os nomes dessas galerias não precisam ser iguais ao do script)
 
-?Configurando o GitHub
+**3 Configurando o GitHub**
 * Em seguida, vá para o github e pressione o botão verde "New" no canto superior esquerdo. Em seguida, nomeie o repositório e certifique-se de que seja público e crie o repositório (Nele você vai botar todas as suas páginas Cubari)
 <a href="https://imgur.com/tVO4WTa"><img src="https://i.imgur.com/tVO4WTa.png" title="source: imgur.com" /></a>
 * Em seguida, clique em “Add File>Create new file” na seção de configuração rápida. Dê ao arquivo o nome que você quiser, mas certifique-se de que o nome seja algo que você não irá alterar (toda vez que você alterar o nome, o link do url será alterado) Nota adicional: Você terá que refazer o link do cubari caso mude o nome
