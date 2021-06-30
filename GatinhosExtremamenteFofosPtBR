@@ -1,1 +1,26 @@
+{
+  "title": "Gatinhos extremamente fofos",
+  "description": "Mano? São gatinhos fofos, precia de descrição????",
+  "artist": "Não sei",
+  "author": "Euzinho aqui",
+  "cover": "<linkdacapa.jpg>",
+  "chapters": {
+    "1": {
+      "title": "Pack de gatinhos 1",
+      "volume": "1",
+      "groups": {
+        "SrWonka#0451": "/proxy/api/imgur/chapter/<id imgur>/"
+      },
+      "last_updated": "1625055066"
+    },
+    "2": {
+      "title": "Pack de gatinhos 2",
+      "volume": "1",
+      "groups": {
+        "SrWonka#0451": "/proxy/api/imgur/chapter/<id imgur>/"
+      },
+      "last_updated": "1625055066"
+    }
+  }
+}
 
