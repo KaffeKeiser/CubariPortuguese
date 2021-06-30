@@ -58,7 +58,7 @@ Nota: Agora você terá duas opções, criar uma url aleatória ou uma personali
 
 Nota¹: Se você ja fez uma url aleatória do seu arquivo, altere o nome do mesmo, assim você conseguirá criar uma url personalizada do mesmo aquivo.
 
-Nota²: Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (use: **NomeDaObraPtBR**, assim outra pessoa poderá criar uma url pareceida, ex: **NomeDaObraEg**).
+Nota²: Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (use: **NomeDaObraPtBR**, assim outra pessoa poderá criar uma url pareceida, ex: **NomeDaObraEng**).
 
 * Pegue sua url personalizada (destacada em azul) e cole-a na caixa de busca do [Cubari](https://cubari.moe/) esse vai ser o link link fixo para página (a menos que o nome do arquivo seja alterado)
 
@@ -78,5 +78,5 @@ Nota²: Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (
 **6 Adicionais**
 * Visite um exemplo funcional [aqui](https://cubari.moe/read/gist/GatinhosExtremamenteFofosPtBR/). (Códidgo GitHub do exemplo: [Gatinhos extremamentes fofos](https://github.com/SrW0nka/CubariPortuguese/blob/main/GatinhosExtremamenteFofosPtBR)).
 * Para os sites: [Mangadex](https://mangadex.org/), [Mangasee](https://mangasee123.com/) e [NHentai](https://nhentai.net/)  basta apenas pegar o ID das obras (encontre ele no link da mesmas) e colar na caixa de busca do cubari. 
-* Para os sites: [GoogleDrive](https://www.google.com/intl/pt/drive/) e [AmazomWebServices](https://aws.amazon.com/pt/) o processo é o mesmo que o do [Imgur](https://imgur.com/), contudo o campo "**<grupos>": "/proxy/api/imgur/chapter/<id imgur>/**" tem que ser modificado (Visite: [ModeloGD](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloGD) ou [ModeloAWS](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloAWS).
+* Para os sites: [GoogleDrive](https://www.google.com/intl/pt/drive/) e [AmazomWebServices](https://aws.amazon.com/pt/) o processo é o mesmo que o do [Imgur](https://imgur.com/), contudo algumas partes tem que ser modificadas (Visite: [ModeloGD](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloGD) ou [ModeloAWS](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloAWS)).
 * Caso precise de ajuda visite o [meu servidor do discord](https://discord.gg/qdZ7tbJxjV)
