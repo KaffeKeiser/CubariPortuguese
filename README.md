@@ -40,7 +40,7 @@ Nota: Utitlize um Desktop/Notebook.
 * Na [página inicial](https://github.com/) clicque em **[New](https://github.com/new)** (canto superior esquerdo), nomeie o repositório, certifique-se de que a opção **Public** esteja marcada e clique em **Create repository** (Se desejar marque a opção **Add a README file**).
 <a href="https://imgur.com/GL7whho"><img src="https://i.imgur.com/GL7whho.png" title="source: imgur.com" /></a>
 * Clique em **Add File** e em **Create new file** na página principal do repositório. Dê ao arquivo o nome que você quiser, tenha certeza de que o nome seja algo que você não irá alterar (toda vez que você alterar o nome o link do cubari precisará ser refeito).
-* No página do **Create new file** cole o codigo que está [aqui](https://github.com/SrW0nka/CubariPortuguese/blob/main/Modelo).
+* No página do **Create new file** cole o [ModeloIMGUR](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloIMGUR).
 * Preencha todos os campos que as setas **< e >** circundam com as informações que deseja (se lembre de removê-las).
 
 Nota: Para o campo **< id imgur >**, pegue o link imgur do álbum que deseja adicionar e selecione a cadeia alfanumérica após **imgur.com/a/** na url. 
@@ -76,4 +76,7 @@ Nota²: Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (
 * Uma vez terminadas todas as alterações, clique em **commit changes**.
 
 **6 Adicionais**
+* Visite um exemplo funcional [aqui](https://cubari.moe/read/gist/GatinhosExtremamenteFofosPtBR/). (Códidgo GitHub do exemplo: [Gatinhos extremamentes fofos](https://github.com/SrW0nka/CubariPortuguese/blob/main/GatinhosExtremamenteFofosPtBR)).
+* Para os sites: [Mangadex](https://mangadex.org/), [Mangasee](https://mangasee123.com/) e [NHentai](https://nhentai.net/)  basta apenas pegar o ID das obras (encontre ele no link da mesmas) e colar na caixa de busca do cubari. 
+* Para os sites: [GoogleDrive](https://www.google.com/intl/pt/drive/) e [AmazomWebServices](https://aws.amazon.com/pt/) o processo é o mesmo que o do [Imgur](https://imgur.com/), contudo o campo "**<grupos>": "/proxy/api/imgur/chapter/<id imgur>/**" tem que ser modificado (Visite: [ModeloGD](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloGD) ou [ModeloAWS](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloAWS).
 * Caso precise de ajuda visite o [meu servidor do discord](https://discord.gg/qdZ7tbJxjV)
