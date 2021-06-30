@@ -47,18 +47,18 @@ Nota¹: Se você ja possui um repositório e deseja criar outra página pule o p
 <a href="https://imgur.com/GL7whho"><img src="https://i.imgur.com/GL7whho.png" title="source: imgur.com" /></a>
 * Clique em **Add File** e em **Create new file** na página principal do repositório. Dê ao arquivo o nome que você quiser, tenha certeza de que o nome seja algo que você não irá alterar (toda vez que você alterar o nome o link do cubari precisará ser refeito).
 * No página do **Create new file** cole o [ModeloIMGUR](https://github.com/SrW0nka/CubariPortuguese/blob/main/ModeloIMGUR).
-* Preencha todos os campos que as setas **< e >** circundam com as informações que deseja (se lembre de removê-las).
+* Preencha todos os campos que as setas `<` e `>` circundam com as informações que deseja (se lembre de removê-las).
 
 Nota¹: Para o campo `<id imgur>`, pegue o link imgur do álbum que deseja adicionar e em seguida copie e cole a cadeia alfanumérica após `imgur.com/a/` na url.
 
 Ex: `https://imgur.com/a/<id imgur>` 
 
-Nota²: Para o campo `<hora que foi upado>`, use o site [UnixTimeStamp](https://www.unixtimestamp.com/) e utilize o Unix Timestamps do horáro atual (você também pode pegar um Unix Timestamp de um dia anterior mais abaixo no mesmo site).
+Nota²: Para o campo `<hora que foi upado>`, use o site [UnixTimeStamp](https://www.unixtimestamp.com/) você pode pegar um Unix Timestamp de um dia anterior ou do horário atual.
 
 * Uma vez feito isso, clique em **commit new file**.
 * Na página do aquivo, clique em **raw** e copie a url mostrada na barra de endereços. 
 
-Nota: Agora você terá duas opções, criar uma url aleatória ou uma personalizada (dica: comece por uma aleatória).
+Nota: Agora você terá duas opções, criar uma url aleatória ou uma personalizada (se esta cemeçando inicie por uma aleatória).
 
 * **Aleatória:** Vá até [git.io](https://git.io/), cole a url do aquivo `https://raw....` e encurte-a. Copie a url encurtada e cole-a na caixa de busca do [Cubari](https://cubari.moe/) (esse vai ser o link link fixo para página cubari da obra).
 * **Personalizada:** Pege a ulr do aquivo `https://raw....` e em seguida edite-a com esté comando: `curl https://git.io/ -i -F "url=url_do_arquivo" -F "code=url_personalizada"`. Após editar cole o comando no **terminal/cmd** e aperte enter.
@@ -68,7 +68,7 @@ Nota¹: Essa URl é única, ou seja não há outra igual, escolha com sabedoria 
 
 Nota²: Se você ja fez uma url aleatória ou quer mudar o link personalizado, altere o nome do arquivo, assim você conseguirá criar uma nova url (personalizada ou aleatória).
 
-* Pegue sua url personalizada (destacada em azul) e cole-a na caixa de busca do [Cubari](https://cubari.moe/) esse vai ser o link link fixo para página cubari da obra.
+* Pegue sua url personalizada (destacada em azul acima) e cole-a na caixa de busca do [Cubari](https://cubari.moe/) esse vai ser o link link fixo para página cubari da obra.
 
  ## **5 Adicioando novos capítulos**
 * Volte para o arquivo github que você criou anteriormente e edite-o (ícone do lápis).
@@ -78,7 +78,7 @@ Nota²: Se você ja fez uma url aleatória ou quer mudar o link personalizado, a
 
 * Adicione uma `,` na chave abaixo de `"last_updated": "<hora que foi upado>"` (destacado em vermelho abaixo).
 * Aperte **Shift+Enter** e cole o que você copiou.
-* Altere as informações necessárias (destacado em roxo).
+* Altere as informações necessárias (destacado em roxo abaixo).
 
 <a href="https://imgur.com/ma1cnoS"><img src="https://i.imgur.com/ma1cnoS.png" title="source: imgur.com" /></a>
 * Uma vez terminadas todas as alterações, clique em **commit changes**.
