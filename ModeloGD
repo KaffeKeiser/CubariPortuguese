@@ -36,5 +36,5 @@ ADICIONAL (não copie no seu arquivo)
 Nota: Para o campo < id gd >
 *Gere o link da imagem que deseja adicionar (você deve fazer isso para cada imagem).
 *Selecione a opção "Qualquer pessoa com o link" (mantenha a opção "leitor").
-*Copie e cole a cadeia alfanumérica após /file/d/ na url.
+*E em seguida copie e cole a cadeia alfanumérica após /file/d/ na url.
 Ex: https://drive.google.com/file/d/< id gd>/view?usp=sharing
