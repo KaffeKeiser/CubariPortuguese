@@ -21,7 +21,7 @@
 
 # Como criar uma página no Cubari? 
 
-Nota¹: Usarei o [Imgur](https://imgur.com/) de exemplo (é o mais fácil de trabalhar), contudo pode ser feito com qualquer dos sites mencionados mais acima.
+Nota¹: Usarei o [Imgur](https://imgur.com/) de exemplo (é o mais fácil de trabalhar), contudo pode ser feito com qualquer dos sites mencionados acima.
 
 Nota²: * Visite um exemplo funcional [aqui](https://cubari.moe/read/gist/GatinhosExtremamenteFofosPtBR/) (códidgo do exemplo: [Gatinhos extremamentes fofos](https://github.com/SrW0nka/CubariPortuguese/blob/main/GatinhosExtremamenteFofosPtBR)).
 
@@ -54,17 +54,17 @@ Nota²: Para o campo **< hora que foi upado >**, use o site [UnixTimeStamp](http
 * Uma vez feito isso, clique em **commit new file**.
 * Na página do aquivo, clique em **raw** e copie a url mostrada na barra de endereços. 
 
-Nota: Agora você terá duas opções, criar uma url aleatória ou uma personalizada (dica: começe por uma aleatória).
+Nota: Agora você terá duas opções, criar uma url aleatória ou uma personalizada (dica: comece por uma aleatória).
 
-* **Aleatória:** Vá até [git.io](https://git.io/), cole a url **https://raw....** e encurte-a. Copie a url encurtada e cole-a na caixa de busca do [Cubari](https://cubari.moe/) (esta será a url permanente para a página Cubari criada).
-* **Personalizada:** Pege a ulr **https://raw....** e em seguida edite-a com esté comando: "**curl https://git.io/ -i -F "url=https://raw...." -F "code=url_personalizada**". Após editar cole o comando no **terminal/cmd** e aperte enter.
+* **Aleatória:** Vá até [git.io](https://git.io/), cole a url do aquivo "**https://raw....**" e encurte-a. Copie a url encurtada e cole-a na caixa de busca do [Cubari](https://cubari.moe/) (esse vai ser o link link fixo para página cubari da obra).
+* **Personalizada:** Pege a ulr do aquivo "**https://raw....**" e em seguida edite-a com esté comando: "**curl https://git.io/ -i -F "url=url_do_arquivo" -F "code=url_personalizada**". Após editar cole o comando no **terminal/cmd** e aperte enter.
 <a href="https://imgur.com/soz3jX2"><img src="https://i.imgur.com/soz3jX2.png" title="source: imgur.com" /></a>
 
-Nota¹: Se você ja fez uma url aleatória do seu arquivo, altere o nome do mesmo, assim você conseguirá criar uma url personalizada do mesmo aquivo.
+Nota¹: Essa URl é única, ou seja não há outra igual, escolha com sabedoria (use: **NomeDaObraPtBR**, assim outra pessoa poderá criar uma url pareceida, ex: **NomeDaObraEng**).
 
-Nota²: Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria (use: **NomeDaObraPtBR**, assim outra pessoa poderá criar uma url pareceida, ex: **NomeDaObraEng**).
+Nota²: Se você ja fez uma url aleatória ou quer mudar o link personalizado, altere o nome do arquivo, assim você conseguirá criar uma nova url (personalizada ou aleatória).
 
-* Pegue sua url personalizada (destacada em azul) e cole-a na caixa de busca do [Cubari](https://cubari.moe/) esse vai ser o link link fixo para página (a menos que o nome do arquivo seja alterado)
+* Pegue sua url personalizada (destacada em azul) e cole-a na caixa de busca do [Cubari](https://cubari.moe/) esse vai ser o link link fixo para página cubari da obra.
 
  **5 Adicioando novos capítulos**
 * Volte para o arquivo github que você criou anteriormente e edite-o (ícone do lápis).
