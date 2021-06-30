@@ -37,19 +37,30 @@ Nota: Utitlize um Desktop/Notebook
 * Repita isso para todos os capítulos que desejar (cada capítulo deve ter sua propría galeria)
 
 **3 Configurando o GitHub**
-* Em seguida, vá para o github e pressione o botão verde "New" no canto superior esquerdo. Em seguida, nomeie o repositório e certifique-se de que seja público e crie o repositório (Nele você vai botar todas as suas páginas Cubari)
-<a href="https://imgur.com/tVO4WTa"><img src="https://i.imgur.com/tVO4WTa.png" title="source: imgur.com" /></a>
-* Em seguida, clique em “Add File>Create new file” na seção de configuração rápida. Dê ao arquivo o nome que você quiser, mas certifique-se de que o nome seja algo que você não irá alterar (toda vez que você alterar o nome, o link do url será alterado) Nota adicional: Você terá que refazer o link do cubari caso mude o nome
-* No campo “Edit new file” cole o codigo que está [nestá página](https://github.com/SrW0nka/CubariPortuguese/blob/main/Exemplo)
-* Em seguida, preencha todos os campos que os <> circundam (Nota adicional: Você também deve remover as chaves "<" e ">"). 
-* OBS: Para o campo "id imgur", vá para o imgur e pegue o Imgur ID (a cadeia alfanumérica após imgur.com/a/ na url) do capítulo que você deseja hospedar e cole-o. Uma vez feito isso, clique em "commit new file".
-* Em seguida, volte para o arquivo, clique em "raw" e depois copie a url. Vá até [git.io](https://git.io/), cole a url e encurte-a. Copie a url encurtada e cole-a na caixa de busca do [Cubari](https://cubari.moe/). Esta será a url permanente para a página Cubari criada (desde que você não mude o nome do arquivo no github)
-* OBS: Se você deseja uma url personalizada você deve pegar a url do aquivo (Com o /raw), em seguida edite esté comando "curl https://git.io/ -i -F "url=link do github" -F "code=url personalizada" (Após isso copie e cole no terminal/cmd e aperte enter) (Você deve mudar o nome do arquivo no github, para poder gerar um novo link. Nota adicional: Apenas faça isso se você ja encurtou o link no git.io) 
-<a href="https://imgur.com/BxBUhin"><img src="https://i.imgur.com/BxBUhin.png" title="source: imgur.com" /></a>
-Ps. Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (Dica: faça seus testes com uma url aleatória, do git.io, e so depois use uma personalizada)
+* Na [página inicial](https://github.com/) clicque em **[New](https://github.com/new)** (canto superior esquerdo), nomeie o repositório, certifique-se de que a opção **Public** esteja marcada e clique em **Create repository** (Se desejar marque a opção **Add a README file**)
+<a href="https://imgur.com/GL7whho"><img src="https://i.imgur.com/GL7whho.png" title="source: imgur.com" /></a>
+* Clique em **Add File** e em **Create new file** na página principal do repositório. Dê ao arquivo o nome que você quiser, tenha certeza de que o nome seja algo que você não irá alterar (toda vez que você alterar o nome o link do cubari se tornará inválido)
+* No página do **Create new file** cole o codigo que está [aqui](https://github.com/SrW0nka/CubariPortuguese/blob/main/Modelo)
+* Preencha todos os campos que as setas **< e >** circundam com as informações que deseja (se lembre de removê-las)
 
- ?Adicioando novos capítulos
-* Volte para o código github que você escreveu anteriormente e edite-o (ícone do lápis).
+Nota: Para o campo **< id imgur >**, pegue o link imgur da galeria que deseja adicionar e selecione a cadeia alfanumérica após **imgur.com/a/** na url. 
+* Uma vez feito isso, clique em **commit new file**.
+* Na página do aquivo, clique em **raw** e copie a url mostrada na barra de endereços. 
+
+Nota: Agora você terá duas opções, criar uma url aleatória ou uma personalizada (dica: começe por uma aleatória) 
+
+* **Aleatória:** Vá até [git.io](https://git.io/), cole a url **https://raw....** e encurte-a. Copie a url encurtada e cole-a na caixa de busca do [Cubari](https://cubari.moe/). (esta será a url permanente para a página Cubari criada)
+* **Personalizada:** Pege a ulr **https://raw....** e em seguida edite-a com esté comando **curl https://git.io/ -i -F "url=https://raw...." -F "code=url_personalizada**. Após editar cole o comando no **terminal/cmd** e aperte enter.
+<a href="https://imgur.com/soz3jX2"><img src="https://i.imgur.com/soz3jX2.png" title="source: imgur.com" /></a>
+
+Nota¹: Se você ja fez uma url aleatória do seu arquivo, altere o nome do mesmo, assim você conseguirá criar uma url personalizada do mesmo aquivo.
+
+Nota²: Essa URl é fixa, ou seja não há outra igual, escolha com sabedoria. (use: **NomeDaObraPtBR**, assim outra pessoa poderá criar uma url pareceida, ex: **NomeDaObraEg**).
+
+* Pegue sua url personalizada (destacada em azul) e cole-a na caixa de busca do [Cubari](https://cubari.moe/) esse vai ser o link link fixo para página (a menos que o nome do arquivo seja alterado)
+
+ **4 Adicioando novos capítulos**
+* Volte para o arquivo github que você criou anteriormente e edite-o (ícone do lápis).
 * Copie o texto do capítulo anterior
 
 <a href="https://imgur.com/5XSheby"><img src="https://i.imgur.com/5XSheby.png" title="source: imgur.com" /></a>
